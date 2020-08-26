@@ -1,5 +1,5 @@
 # MacOS-OpenSource
-List of good MacOS open source programs that I have come across
+List of good MacOS FOSS applications and utilities that I have come across
 
 ## Table of Contents
 
