@@ -8,20 +8,45 @@ List of good MacOS open source programs that I have come across
 * [Security](#security)
 * [Terminal](#terminal)
 * [Vim](#vim)
-  * [Auto-Complete](#auto-complete)
-  * [Formatting](#formatting)
-  * [Syntax Highlighting](#syntax-highlighting)
-  * [Themes](#themes)
-  * [Utility](#utility-1)
+   * [Auto-Complete](#auto-complete)
+   * [Formatting](#formatting)
+   * [Syntax Highlighting](#syntax-highlighting)
+   * [Themes](#themes)
+   * [Utility](#utility-1)
 
-## Audio
+## Media 
+
+- [IINA](https://iina.io/) - Modern media player for MacOS
+- [VLC](https://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols
+
+### Audio
+
 - [Audacity](https://www.audacityteam.org/download/mac/) - Multi-track audio editor and recorder
+- [Plug](https://www.plugformac.com/) - Hypemachine client for MacOS
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/) - Spotify and iTunes in your MacOS menu bar
 
+### Personal 
+
+- [ToDoist](https://todoist.com/downloads/mac?lang=en) - To do list
+
 ## Utility
+
+- [App Cleaner](https://freemacsoft.net/appcleaner/) - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS using keyboard shortcuts or snap areas
+- [Transmission](https://transmissionbt.com/download/) - Lightweight robust BitTorrent client
+
+### Files
+- [Encrypto](https://macpaw.com/encrypto) - Easy file encryption before distributing to others
+- [Keka](https://www.keka.io/en/) - File archiver
+- [TheUnarchiver](https://theunarchiver.com/) - File archiver extration
+
+
+### Data Recovery
+
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Primarily designed to help recover lost partitions and/or make non-booting disks bootable again
 
 ## Security 
+
 - [LuLu](https://objective-see.com/products/lulu.html) - Free firewall
 - [Do Not Distrub](https://objective-see.com/products/dnd.html) - Physicall access detection
 - [KnockKnock](https://objective-see.com/products/knockknock.html) - Persistently installed software detection
@@ -30,9 +55,12 @@ List of good MacOS open source programs that I have come across
 - [KextViewer](https://objective-see.com/products/kextviewr.html) - Kernel module viewer
 
 ## Terminal 
+
+- [iTerm2](https://www.iterm2.com/) - Terminal 
 - [Oh-My-Zsh](https://ohmyz.sh/) - Zsh configuration manager
 
 ## Vim
+
 - [Vim Plug](https://github.com/junegunn/vim-plug) - Minimalist Vim plugin manager
 
 ### Auto-Complete
@@ -45,6 +73,7 @@ List of good MacOS open source programs that I have come across
 
 - [indentLine](https://github.com/Yggdroot/indentLine) - Displays thin vertical lines at each indentation level for code indented with spaces.
 - [tabular](https://github.com/godlygeek/tabular) - Text alignment
+- [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - A vim 7.4+ plugin to generate table of contents for Markdown files.
 
 ### Syntax Highlighting
 
