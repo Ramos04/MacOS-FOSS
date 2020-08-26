@@ -29,7 +29,7 @@ List of good MacOS open source programs that I have come across
 - [Plug](https://www.plugformac.com/) - Hypemachine client for MacOS
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/) - Spotify and iTunes in your MacOS menu bar
 
-### Personal 
+## Personal 
 
 - [ToDoist](https://todoist.com/downloads/mac?lang=en) - To do list
 
