@@ -5,7 +5,7 @@ List of good MacOS open source programs that I have come across
 
 * [Media](#media)
    * [Audio](#audio)
-   * [Personal](#personal)
+* [Personal](#personal)
 * [Utility](#utility)
    * [Files](#files)
    * [Data Recovery](#data-recovery)
