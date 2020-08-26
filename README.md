@@ -31,6 +31,8 @@ List of good MacOS FOSS applications and utilities that I have come across
 
 ## Personal 
 
+- [Gimp](https://www.gimp.org/) - Free photo editing like photoshop
+- [LibreOffice](https://www.libreoffice.org/) - Free office suite
 - [ToDoist](https://todoist.com/downloads/mac?lang=en) - To do list
 
 ## Utility
